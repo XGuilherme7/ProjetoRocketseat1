@@ -47,7 +47,9 @@ body *{font-family: Arial, Helvetica, sans-serif;
     padding: 0 24px;
 }
 
-#profile {text-align: center;
+#profile {
+    text-align: center;
+    padding: 24px;
 }
 
 #profile img {
@@ -66,8 +68,7 @@ body *{font-family: Arial, Helvetica, sans-serif;
     position: relative;
     width: 64px;
 
-    margin: 0 auto;
-    padding: 4px;
+    margin: 4px auto;
 }
 
 #switch button{
